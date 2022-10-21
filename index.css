@@ -1,0 +1,97 @@
+p, h1, h2, h3, h4, li, a {
+  font-family: 'Roboto', sans-serif;
+}
+
+p, li {
+  line-height: 1.4;
+}
+
+div {
+  padding: 5px;
+}
+
+.visdevs {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.visdev {
+  display: block;
+  width: 60%;
+}
+
+#visdev-guide {
+  text-align: center;
+}
+
+#ipad-dropdown, #phone-dropdown {
+  display: inline-block;
+}
+
+.dropdowns {
+  text-align: center;
+}
+
+.prototype {
+  width: 100%;
+}
+
+.wireframe {
+  width: 80%;
+}
+
+.wireframes, .prototypes {
+  text-align: center;
+}
+
+.padding {
+  padding: 0.5rem;
+}
+
+.rr {
+  text-align: center;
+  background-color: rgba(226,139,58,0.7);
+}
+
+#intro, .wrapper-2, .wireframes, .rest-of-lofi, .site {
+  background-color: rgba(239,235,206,1);
+}
+
+#take-me-there {
+  font-size: 2rem;
+}
+
+.thai-diner-screenshots, .wrapper, .sources, .hifi {
+  background-color: rgba(226,139,58,0.7);
+}
+
+.screenshot {
+  width: 60%;
+  height: 60%;
+  display: inline-block;
+  padding-top: 20px;
+}
+
+.thai-diner-screenshots {
+  text-align: center;
+}
+
+.bottom-padding {
+  padding-bottom: 2rem;
+}
+
+.lists {
+  width: 100%;
+  vertical-align: top;
+}
+
+.padding-align {
+  padding-left: 5vw;
+}
+
+.usability, .learnability, .memorability {
+  width: 30%;
+  display: inline-block;
+  vertical-align: top;
+}
